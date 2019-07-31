@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cezar-carneiro/resume.git"
+    "url": "git+https://github.com/aleodoni/resume.git"
   },
   "keywords": [
     "cv",
@@ -29,9 +29,9 @@
   "author": "Cezar Carneiro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cezar-carneiro/resume/issues"
+    "url": "https://github.com/aleodoni/resume/issues"
   },
-  "homepage": "https://cezar-carneiro.github.io/resume",
+  "homepage": "https://aleodoni.github.io",
   "dependencies": {
     "react": "15.6.1",
     "react-dom": "15.6.1"

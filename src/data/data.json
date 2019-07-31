@@ -1,70 +1,54 @@
 {
     "about": {
-        "name": "Cezar Guimarães Carneiro",
+        "name": "Alexandre Odoni",
         "ocupation": "Software Engineer",
-        "description": "Experienced Full Stack Developer with a true innovative attitude. Has built scalable applications with modern patterns and technologies. Fluent in English and Portuguese.",
+        "description": "Experienced Full Stack Developer with a true innovative attitude. Has built scalable applications with modern patterns and technologies. Fluent in English and Portuguese. Learning German.",
         "location": {
-            "place": "Dublin, Ireland",
-            "link": "https://goo.gl/maps/VaQkVw6qQnS2",
+            "place": "Curitiba, Paraná, Brazil",
+            "link": "https://goo.gl/maps/Z7kVXjqZTZqQz8S78",
             "relocationAvailability": "Available for relocation"
         },
         "telephone": "",
         "email": {
-            "label": "cezargcarneiro@gmail.com",
-            "address": "mailto:cezargcarneiro@gmail.com",
+            "label": "aleodoni@gmail.com",
+            "address": "mailto:aleodoni@gmail.com",
             "type": "personal"
         },
         "linkedin": {
-            "label": "/cezargcarneiro",
-            "address": "https://linkedin.com/in/cezargcarneiro"
+            "label": "/alexandre-odoni",
+            "address": "https://www.linkedin.com/in/alexandre-odoni-862bb64/"
         },
         "github": {
-            "label": "/cezar-carneiro",
-            "address": "https://github.com/cezar-carneiro",
-            "thisRepo": "https://github.com/cezar-carneiro/resume"
+            "label": "/aleodoni",
+            "address": "https://github.com/aleodoni",
+            "thisRepo": "https://github.com/aleodoni/resume"
         }
     },
     "education": [
         {
             "name": "Computer Science",
             "level": "Bachelor of Science (B.S.)",
-            "date": "February 2009 – August 2014",
+            "date": "February 1991 – November 1995",
             "institution": "Pontifical Catholic University",
-            "location": "Goiânia, Brazil"
+            "location": "Curitiba, Paraná, Brazil"
         }
     ],
     "work": [
         {
-            "period": "November, 2016 - October, 2017",
-            "title": "Android Developer",
-            "company": "Máxima Sistemas",
-            "location": "Goiânia",
-            "description": "I developed Android applications with highly complex business logic to support sales and billing. My role was to design new functionalities, optimize performance and improve the overall usability – oftentimes refactoring existing code and enabling integration with other systems.\nAditionaly, I managed the \"Continuous Integration\" practice and encouraged a testing culture across the teams through the introduction of new tools, technologies and techniques. As a result, I have improved software maintainability, leading to better products, faster deployment process and overall customer satisfaction.",
-            "tags": ["Android", "Java", "Firebase", "REST", "JSON", "SQLite", "Gradle", "TDD", "Unit Test", "Integration Test", "System Test", "Espresso", "JUnit", "Robolectric", "Testing", "Jenkins", "Sonar", "Nexus", "Git", "Continuous Integration", "DevOps"]
+            "period": "July, 2011 - Atual",
+            "title": "Full Stack Developer",
+            "company": "Câmara Municipal de Curitiba",
+            "location": "Curitiba",
+            "description": "I am responsible for developing web applications using new technologies, from the requirements gathering through deploy. I'm also responsible for creating reusable components for the development team.",
+            "tags": ["Java", "Tomcat", "PostgresSQL", "REST", "JSON", "SQLite", "Python", "TDD", "Unit Test", "Integration Test", "System Test", "TypeScript", "JUnit", "Node", "Testing", "Travis", "React", "Vue", "Express", "Git", "Continuous Integration", "HTML", "CSS", "Bootstrap", "Fabric", "Material Design", "DevOps"]
         },
         {
-            "period": "January, 2014 - November, 2016",
+            "period": "February, 2007 - July, 2011",
             "title": "Software Developer",
-            "company": "Dataeasy Tecnologia e Serviços",
-            "location": "Goiânia",
-            "description": "I supported the development of a corporate search engine utilizing Java and Apache Solr/Lucene. This search engine processes large amounts of data through pages, documents and database crawling and indexing. Its main purpose is to provide full-text search capability – enabling users to search multiple terms in hundreds of thousands of documents in a fraction of a second. \nI had the honor of working with an open-minded team that applied new patterns and technologies to consistently achieve high-scalability, availability and top-of-the-line functionalities.\nIn addition to supporting core development, I supported the design and implementation of RESTful APIs with Jersey 2 to create developer access the search engine.\nAdditionally, I led front-end development with AngularJS and later with Angular2 driving the product to an improved user experience. Finally, for a brief period of time, I led and concluded the development of an Android application.",
-            "tags": ["Full-Text Search", "Lucene", "Solr", "Java", "JavaScript", "TypeScript", "Jersey2", "Angular", "Angular2", "Android", "REST", "JSON", "MongoDB", "Cassandra", "Maven", "Concordion", "Jenkins", "Sonar", "Git", "Nexus", "GitHub", "Linux", "Continuous Integration", "DevOps"]
-        },
-        {
-            "period": "May, 2013 - January, 2014",
-            "title": "Trainee Developer",
-            "company": "DataEasy Tecnologia e Serviços",
-            "location": "Goiânia",
-            "description": "Back-end development in the core of the engine with Java and indexing technologies.\nFront-end development using GWT (Google Web Toolkit).\nDevelopment of new front-end product components using JavaScript.\nPromoted to Plain Software Developer after completion of trainee program.",
-            "tags": ["Full-Text Search", "Lucene", "Solr", "Java", "JavaScript", "JSP", "GWT", "Shiro", "MongoDB", "Linux"]
-        },
-        {
-            "period": "March, 2012 - January, 2013",
-            "title": "Trainee Developer",
-            "company": "Bank of Brazil (Banco do Brasil)",
-            "location": "Goiânia",
-            "description": "Developed an application available to branches of the bank across the state.\nUtilized JSP (JavaServer Pages) and Struts 2 and PostgreSQL Database.\nEnabled integration with WordPress doing small PHP development.\nManaged back-end infrastructure configuration and resources, deployments, backup processes, etc.",
-            "tags": ["Java", "PHP", "Web", "JSP", "HTML", "CSS", "Struts2", "PostgreSQL", "Memcached", "Apache Tomcat", "Apache Web Server", "Linux"]
+            "company": "HSBC GLTb",
+            "location": "Curitiba",
+            "description": "I was part of the front end development team and participated in several projects. I was also allocated to work in Vancouver, Canadá for 6 months to act as on-site coordinator and participated in several projects for HSBC Canada.",
+            "tags": ["Java", "JavaScript", "Jsp", "Tomcat", "REST", "JSON", "SQL Server", "Oracle", "Maven", "HTML", "CSS", "Continuous Integration", "DevOps"]
         }
     ],
     "courses": [

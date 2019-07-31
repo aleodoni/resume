@@ -91,7 +91,7 @@ body {
 .sidebar {
   text-align: left;
   color: #ffffff;
-  background-color: #5da4d9;
+  background-color: #6b078a;
   overflow: hidden;
   display: block;
 }
@@ -168,7 +168,7 @@ body {
   margin: 0px;
 }
 .sidebar .info {
-  border-bottom: 1px solid #4783c2;
+  border-bottom: 1px solid #4d0264;
   padding-left: 0px;
 }
 .sidebar .info span {
