@@ -2,7 +2,7 @@
     "about": {
         "name": "Alexandre Odoni",
         "ocupation": "Software Engineer",
-        "description": "Experienced Full Stack Developer with a true innovative attitude. Has built scalable applications with modern patterns and technologies. Fluent in English and Portuguese. Learning German.",
+        "description": "A qualified and highly experienced technical developer with over 20 years commercial experience particularly in the online industry. During this period I have also gained valuable experience in leading development teams.  I have both technical and interpersonal skills and am looking for a challenging role that utilises my previous skills and experiences. I want to contribute as much as possible and create great software and be part of the most innovative company. Fluent in English and Portuguese. Learning German.",
         "location": {
             "place": "Curitiba, Paraná, Brazil",
             "link": "https://goo.gl/maps/Z7kVXjqZTZqQz8S78",
@@ -40,6 +40,15 @@
             "company": "Câmara Municipal de Curitiba",
             "location": "Curitiba",
             "description": "I am responsible for developing web applications using new technologies, from the requirements gathering through deploy. I'm also responsible for creating reusable components for the development team.",
+            "responsabilities": [
+                "Gather the requirements for the new projects, create and manage the tasks on GitHub.",
+                "Develop the backend code for the project, most of them using Django Rest Framework.",
+                "Develop the frontend code for the project, some of them using Django and Bootstrap, some of them using Vue and some of them using React.",
+                "Create all the tests for the projects, from unit tests to integration tests.",
+                "Set up the Continuous Integration environment using TravisCI and integrate with the deploy scripts.",
+                "Create all deploy scripts for the projects and integrate them with CI servers.",
+                "Develop reusable components in Django, for example, the authentication module which was used by all systems to authenticate through LDAP server."
+            ],
             "tags": ["Java", "Tomcat", "PostgresSQL", "REST", "JSON", "SQLite", "Python", "TDD", "Unit Test", "Integration Test", "System Test", "TypeScript", "JUnit", "Node", "Testing", "Travis", "React", "Vue", "Express", "Git", "Continuous Integration", "HTML", "CSS", "Bootstrap", "Fabric", "Material Design", "DevOps"]
         },
         {
@@ -47,7 +56,25 @@
             "title": "Software Developer",
             "company": "HSBC GLTb",
             "location": "Curitiba",
-            "description": "I was part of the front end development team and participated in several projects. I was also allocated to work in Vancouver, Canadá for 6 months to act as on-site coordinator and participated in several projects for HSBC Canada.",
+            "description": "I was part of a big team of analysts and developers who worked on many HSBC projects around the world. We attended meetings with different customers from Canada, China, USA, England, Mexico and India. Our tasks included developing specific parts of large projects. I also was allocated for 8 months to work as on-site coordinator in Vancouver, Canadá to help the HSBC Canada team in many projects.",
+            "responsabilities": [
+                "Attend meetings, gather requirements and create tasks for the team.",
+                "Develop front end code for the projects.",
+                "Manage the tasks and provide feedback to the customers."
+            ],
+            "tags": ["Java", "JavaScript", "Jsp", "Tomcat", "REST", "JSON", "SQL Server", "Oracle", "Maven", "HTML", "CSS", "Continuous Integration", "DevOps"]
+        },
+        {
+            "period": "January, 2002 - January, 2007",
+            "title": "Software Developer",
+            "company": "EDS Eletronic Data Systems",
+            "location": "Florianópolis",
+            "description": "I was part of a big team of analysts and developers who worked in many outsourcing projects for EDS.",
+            "responsabilities": [
+                "Attend meetings with other members of the team and discuss and manage solutions for the problems.",
+                "Create and manage the tasks.",
+                "Code the front end code for the large projects and the front and back end code for the medium and small projects."
+            ],
             "tags": ["Java", "JavaScript", "Jsp", "Tomcat", "REST", "JSON", "SQL Server", "Oracle", "Maven", "HTML", "CSS", "Continuous Integration", "DevOps"]
         }
     ],

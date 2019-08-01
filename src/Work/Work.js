@@ -11,6 +11,14 @@ class Work extends Component {
         );
     }
 
+    const responsabilities = (jobRespo) => {
+        return (
+            jobRespo.map((entry, i) => (
+                <p key={i}>{entry}</p>
+            ))
+        );
+    }
+
     const paragraphs = (jobDescription) => {
         return (
             jobDescription.split('\n').map((entry, i) => (
@@ -25,6 +33,8 @@ class Work extends Component {
             <h3><span>{entry.company}, {entry.location}</span></h3>
             <span>{entry.period}</span>
             {paragraphs(entry.description)}
+            <h3><span>Responsabilities</span></h3>
+            {responsabilities(entry.responsabilities)}
             {tags(entry)}
         </div>
     ));
