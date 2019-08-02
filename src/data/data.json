@@ -49,6 +49,15 @@
                 "Create all deploy scripts for the projects and integrate them with CI servers.",
                 "Develop reusable components in Django, for example, the authentication module which was used by all systems to authenticate through LDAP server."
             ],
+            "projects": [
+                "Sistema de Chamados (Internal Follow Up System)",
+                "Sistema de Votação (Voting System)",
+                "Sistema de Ramais (Extensions System)",
+                "Sistema de Calendário (Calendar System)",
+                "Sistema de Almoxarifado (Storeroom System)",
+                "Sistema de Proposições Legislativas (Legislative Propositions System)",
+                "Portal da Transparência (Transparency Portal)"
+            ],
             "tags": ["Java", "Tomcat", "PostgresSQL", "REST", "JSON", "SQLite", "Python", "TDD", "Unit Test", "Integration Test", "System Test", "TypeScript", "JUnit", "Node", "Testing", "Travis", "React", "Vue", "Express", "Git", "Continuous Integration", "HTML", "CSS", "Bootstrap", "Fabric", "Material Design", "DevOps"]
         },
         {
@@ -61,6 +70,11 @@
                 "Attend meetings, gather requirements and create tasks for the team.",
                 "Develop front end code for the projects.",
                 "Manage the tasks and provide feedback to the customers."
+            ],
+            "projects": [
+                "Credit card",
+                "Updating Java servers (Weblogic)",
+                "Many other parts of large projects"
             ],
             "tags": ["Java", "JavaScript", "Jsp", "Tomcat", "REST", "JSON", "SQL Server", "Oracle", "Maven", "HTML", "CSS", "Continuous Integration", "DevOps"]
         },
@@ -75,30 +89,17 @@
                 "Create and manage the tasks.",
                 "Code the front end code for the large projects and the front and back end code for the medium and small projects."
             ],
+            "projects": [
+                "The biggest project I worked was the Visanet project which was responsible to manage the transactions of this card.",
+                "I worked in many other projects also"
+            ],
             "tags": ["Java", "JavaScript", "Jsp", "Tomcat", "REST", "JSON", "SQL Server", "Oracle", "Maven", "HTML", "CSS", "Continuous Integration", "DevOps"]
         }
     ],
-    "courses": [
-        {
-            "name": "Architecture and Design of Java Projects",
-            "company": "Caelum Ensino e Inovação",
-            "type": "Presential",
-            "location": "Brasilia",
-            "date": "2014"
-        },
-        {
-            "name": "Web Development with Java",
-            "company": "3way Networks",
-            "type": "Presential",
-            "location": "Goiânia",
-            "date": "2011"
-        },
-        {
-            "name": "Java Object Orientation",
-            "company": "3way Networks",
-            "type": "Presential",
-            "location": "Goiânia",
-            "date": "2011"
-        }
+
+    "other": [
+        "I’m a fan of new technologies, always learning new languages, frameworks, etc. I’m also very fan of developing apps for mobile. I’m autodidact and it’s easy to me learn new things.",
+        "I also contribute for many projects in GitHub and almost all  my personal projects are published there.",
+        "I have many hobbies like cooking, woodworking, running, cycling, traveling, kayaking, playing guitar and having fun with friends."
     ]
 }

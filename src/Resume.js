@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import About from './About';
 import Education from './Education';
 import Work from './Work';
-import Courses from './Courses';
+import Other from './Other';
 
 import data from './data/data.json';
 import './Resume.css';
@@ -16,7 +16,7 @@ class Resume extends Component {
           <div className="row">
             <Work data={data.work}/>
             <Education data={data.education}/>
-            <Courses data={data.courses}/>
+            <Other data={data.other}/>
           </div>
         </section>
       </div>

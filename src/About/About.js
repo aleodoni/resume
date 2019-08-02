@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import './About.css';
 
+import foto from '../foto.jpg';
+
 class About extends Component {
   render() {
     return (
@@ -16,6 +18,7 @@ class About extends Component {
                             <div className="section-item-details">
                                 <div className="personal">
                                     <h1><a>{this.props.data.name} </a></h1>
+                                    <img class="materialboxed" width="280" src={foto} alt="foto"/>
                                     <h4>{this.props.data.ocupation}</h4>
                                     <span>{this.props.data.description}</span>
                                 </div>
