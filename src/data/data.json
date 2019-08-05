@@ -47,7 +47,9 @@
                 "Create all the tests for the projects, from unit tests to integration tests.",
                 "Set up the Continuous Integration environment using TravisCI and integrate with the deploy scripts.",
                 "Create all deploy scripts for the projects and integrate them with CI servers.",
-                "Develop reusable components in Django, for example, the authentication module which was used by all systems to authenticate through LDAP server."
+                "Develop reusable components in Django, for example, the authentication module which was used by all systems to authenticate through LDAP server.",
+                "Develop reusable components in React.",
+                "Develop reusable components in Vue."
             ],
             "projects": [
                 "Sistema de Chamados (Internal Follow Up System)",
@@ -58,7 +60,7 @@
                 "Sistema de Proposições Legislativas (Legislative Propositions System)",
                 "Portal da Transparência (Transparency Portal)"
             ],
-            "tags": ["Java", "Tomcat", "PostgresSQL", "REST", "JSON", "SQLite", "Python", "TDD", "Unit Test", "Integration Test", "System Test", "TypeScript", "JUnit", "Node", "Testing", "Travis", "React", "Vue", "Express", "Git", "Continuous Integration", "HTML", "CSS", "Bootstrap", "Fabric", "Material Design", "DevOps"]
+            "tags": ["Java", "Tomcat", "PostgresSQL", "REST", "JSON", "SQLite", "Python", "TDD", "Unit Test", "Integration Test", "System Test", "TypeScript", "JUnit", "Node", "Testing", "Travis", "React", "Vue", "Express", "Git", "Continuous Integration", "HTML", "CSS", "Bootstrap", "Fabric", "Material Design", "Material-UI", "Axios", "Docker", "VirtialEnv", "MongoDB", "Firebase", "Scrum", "Agile", "DevOps"]
         },
         {
             "period": "February, 2007 - July, 2011",
