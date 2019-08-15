@@ -162,7 +162,15 @@
       ]
     }
   ],
-  "courses": [],
+  "courses": [
+    {
+      "name": "Bootcamp GoStack 9.0 (NodeJS, ReactJS, React Native, Redux)",
+      "company": "RocketSeat",
+      "type": "Online",
+      "location": "Curitiba",
+      "date": "2019"
+    }
+  ],
   "other": [
     "I’m a fan of new technologies, always learning new languages, frameworks, etc. I’m also very fan of developing apps for mobile. I’m autodidact and it’s easy to me learn new things.",
     "I also contribute for many projects in GitHub and almost all  my personal projects are published there.",
