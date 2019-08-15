@@ -33,11 +33,22 @@
   },
   "homepage": "https://aleodoni.github.io/resume",
   "dependencies": {
-    "react": "15.6.1",
-    "react-dom": "15.6.1"
+    "react": "*",
+    "react-dom": "*"
   },
   "devDependencies": {
-    "gh-pages": "^1.0.0",
-    "react-scripts": "1.0.7"
+    "gh-pages": "*",
+    "react-scripts": "*"
+  },
+  "browserslist": {
+    "production": [
+      "last 1 version",
+      "> 1%"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
