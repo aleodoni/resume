@@ -27,17 +27,36 @@ class Work extends Component {
         );   
     }
 
-    const jobs = this.props.data.map((entry, i) => (
-        <div key={i} className="custom-content-wrapper">
-            <h3>{entry.title}</h3>
-            <h3><span>{entry.company}, {entry.location}</span></h3>
-            <span>{entry.period}</span>
-            {paragraphs(entry.description)}
-            <h3><span>Responsabilities</span></h3>
-            {responsabilities(entry.responsabilities)}
-            {tags(entry)}
-        </div>
-    ));
+    const projects = (projectList) => {
+        if (projectList.length > 0) {
+            const pList = projectList.map((entry, i) => (
+                <p key={i}>{entry}</p>
+            ))
+            return (
+                <div>
+                    <h3><span>Projects</span></h3>
+                    { pList }
+                </div>
+            );
+        } else {
+            return null;
+        }
+    }
+
+    const jobs = this.props.data.map((entry, i) => {
+        return (
+            <div key={i} className="custom-content-wrapper">
+                <h3>{entry.title}</h3>
+                <h3><span>{entry.company}, {entry.location}</span></h3>
+                <span>{entry.period}</span>
+                {paragraphs(entry.description)}
+                <h3><span>Responsabilities</span></h3>
+                {responsabilities(entry.responsabilities)}
+                {projects(entry.projects)}
+                {tags(entry)}
+            </div>
+        );
+    });
 
     return (
         <div className="section-wrapper z-depth-1">                            
