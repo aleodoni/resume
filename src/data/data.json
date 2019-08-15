@@ -1,107 +1,171 @@
 {
-    "about": {
-        "name": "Alexandre Odoni",
-        "ocupation": "Software Engineer",
-        "description": "A qualified and highly experienced technical developer with over 20 years commercial experience particularly in the online industry. During this period I have also gained valuable experience in leading development teams.  I have both technical and interpersonal skills and am looking for a challenging role that utilises my previous skills and experiences. I want to contribute as much as possible and create great software and be part of the most innovative company. Fluent in English and Portuguese. Learning German.",
-        "location": {
-            "place": "Curitiba, Paraná, Brazil",
-            "link": "https://goo.gl/maps/Z7kVXjqZTZqQz8S78",
-            "relocationAvailability": "Available for relocation"
-        },
-        "telephone": "",
-        "email": {
-            "label": "aleodoni@gmail.com",
-            "address": "mailto:aleodoni@gmail.com",
-            "type": "personal"
-        },
-        "linkedin": {
-            "label": "/alexandre-odoni",
-            "address": "https://www.linkedin.com/in/alexandre-odoni-862bb64/"
-        },
-        "github": {
-            "label": "/aleodoni",
-            "address": "https://github.com/aleodoni",
-            "thisRepo": "https://github.com/aleodoni/resume"
-        }
+  "about": {
+    "name": "Alexandre Odoni",
+    "ocupation": "Software Engineer",
+    "description": "A qualified and highly experienced technical developer with over 20 years commercial experience particularly in the online industry. During this period I have also gained valuable experience in leading development teams.  I have both technical and interpersonal skills and am looking for a challenging role that utilises my previous skills and experiences. I want to contribute as much as possible and create great software and be part of the most innovative company. Fluent in English and Portuguese. Learning German.",
+    "location": {
+      "place": "Curitiba, Paraná, Brazil",
+      "link": "https://goo.gl/maps/Z7kVXjqZTZqQz8S78",
+      "relocationAvailability": "Available for relocation"
     },
-    "education": [
-        {
-            "name": "Computer Science",
-            "level": "Bachelor of Science (B.S.)",
-            "date": "February 1991 – November 1995",
-            "institution": "Pontifical Catholic University",
-            "location": "Curitiba, Paraná, Brazil"
-        }
-    ],
-    "work": [
-        {
-            "period": "July, 2011 - Atual",
-            "title": "Full Stack Developer",
-            "company": "Câmara Municipal de Curitiba",
-            "location": "Curitiba",
-            "description": "I am responsible for developing web applications using new technologies, from the requirements gathering through deploy. I'm also responsible for creating reusable components for the development team.",
-            "responsabilities": [
-                "Gather the requirements for the new projects, create and manage the tasks on GitHub.",
-                "Develop the backend code for the project, most of them using Django Rest Framework.",
-                "Develop the frontend code for the project, some of them using Django and Bootstrap, some of them using Vue and some of them using React.",
-                "Create all the tests for the projects, from unit tests to integration tests.",
-                "Set up the Continuous Integration environment using TravisCI and integrate with the deploy scripts.",
-                "Create all deploy scripts for the projects and integrate them with CI servers.",
-                "Develop reusable components in Django, for example, the authentication module which was used by all systems to authenticate through LDAP server.",
-                "Develop reusable components in React.",
-                "Develop reusable components in Vue."
-            ],
-            "projects": [
-                "Sistema de Chamados (Internal Follow Up System)",
-                "Sistema de Votação (Voting System)",
-                "Sistema de Ramais (Extensions System)",
-                "Sistema de Calendário (Calendar System)",
-                "Sistema de Almoxarifado (Storeroom System)",
-                "Sistema de Proposições Legislativas (Legislative Propositions System)",
-                "Portal da Transparência (Transparency Portal)"
-            ],
-            "tags": ["Java", "Tomcat", "PostgresSQL", "REST", "JSON", "SQLite", "Python", "TDD", "Unit Test", "Integration Test", "System Test", "TypeScript", "JUnit", "Node", "Testing", "Travis", "React", "Vue", "Express", "Git", "Continuous Integration", "HTML", "CSS", "Bootstrap", "Fabric", "Material Design", "Material-UI", "Axios", "Docker", "VirtialEnv", "MongoDB", "Firebase", "Scrum", "Agile", "DevOps"]
-        },
-        {
-            "period": "February, 2007 - July, 2011",
-            "title": "Software Developer",
-            "company": "HSBC GLTb",
-            "location": "Curitiba",
-            "description": "I was part of a big team of analysts and developers who worked on many HSBC projects around the world. We attended meetings with different customers from Canada, China, USA, England, Mexico and India. Our tasks included developing specific parts of large projects. I also was allocated for 8 months to work as on-site coordinator in Vancouver, Canadá to help the HSBC Canada team in many projects.",
-            "responsabilities": [
-                "Attend meetings, gather requirements and create tasks for the team.",
-                "Develop front end code for the projects.",
-                "Manage the tasks and provide feedback to the customers."
-            ],
-            "projects": [
-                "Credit card",
-                "Updating Java servers (Weblogic)",
-                "Many other parts of large projects"
-            ],
-            "tags": ["Java", "JavaScript", "Jsp", "Tomcat", "REST", "JSON", "SQL Server", "Oracle", "Maven", "HTML", "CSS", "Continuous Integration", "DevOps"]
-        },
-        {
-            "period": "January, 2002 - January, 2007",
-            "title": "Software Developer",
-            "company": "EDS Eletronic Data Systems",
-            "location": "Florianópolis",
-            "description": "I was part of a big team of analysts and developers who worked in many outsourcing projects for EDS.",
-            "responsabilities": [
-                "Attend meetings with other members of the team and discuss and manage solutions for the problems.",
-                "Create and manage the tasks.",
-                "Code the front end code for the large projects and the front and back end code for the medium and small projects."
-            ],
-            "projects": [
-                "The biggest project I worked was the Visanet project which was responsible to manage the transactions of this card.",
-                "I worked in many other projects also"
-            ],
-            "tags": ["Java", "JavaScript", "Jsp", "Tomcat", "REST", "JSON", "SQL Server", "Oracle", "Maven", "HTML", "CSS", "Continuous Integration", "DevOps"]
-        }
-    ],
-
-    "other": [
-        "I’m a fan of new technologies, always learning new languages, frameworks, etc. I’m also very fan of developing apps for mobile. I’m autodidact and it’s easy to me learn new things.",
-        "I also contribute for many projects in GitHub and almost all  my personal projects are published there.",
-        "I have many hobbies like cooking, woodworking, running, cycling, traveling, kayaking, playing guitar and having fun with friends."
-    ]
+    "telephone": "",
+    "email": {
+      "label": "aleodoni@gmail.com",
+      "address": "mailto:aleodoni@gmail.com",
+      "type": "personal"
+    },
+    "linkedin": {
+      "label": "/alexandre-odoni",
+      "address": "https://www.linkedin.com/in/alexandre-odoni-862bb64/"
+    },
+    "github": {
+      "label": "/aleodoni",
+      "address": "https://github.com/aleodoni",
+      "thisRepo": "https://github.com/aleodoni/resume"
+    }
+  },
+  "education": [
+    {
+      "name": "Computer Science",
+      "level": "Bachelor of Science (B.S.)",
+      "date": "February 1991 – November 1995",
+      "institution": "Pontifical Catholic University",
+      "location": "Curitiba, Paraná, Brazil"
+    }
+  ],
+  "work": [
+    {
+      "period": "July, 2011 - Atual",
+      "title": "Full Stack Developer",
+      "company": "Câmara Municipal de Curitiba",
+      "location": "Curitiba",
+      "description": "I am responsible for developing web applications using new technologies, from the requirements gathering through deploy. I'm also responsible for creating reusable components for the development team.",
+      "responsabilities": [
+        "Gather the requirements for the new projects, create and manage the tasks on GitHub.",
+        "Develop the backend code for the project, most of them using Django Rest Framework.",
+        "Develop the frontend code for the project, some of them using Django and Bootstrap, some of them using Vue and some of them using React.",
+        "Create all the tests for the projects, from unit tests to integration tests.",
+        "Set up the Continuous Integration environment using TravisCI and integrate with the deploy scripts.",
+        "Create all deploy scripts for the projects and integrate them with CI servers.",
+        "Develop reusable components in Django, for example, the authentication module which was used by all systems to authenticate through LDAP server.",
+        "Develop reusable components in React.",
+        "Develop reusable components in Vue."
+      ],
+      "projects": [
+        "Sistema de Chamados (Internal Follow Up System)",
+        "Sistema de Votação (Voting System)",
+        "Sistema de Ramais (Extensions System)",
+        "Sistema de Calendário (Calendar System)",
+        "Sistema de Almoxarifado (Storeroom System)",
+        "Sistema de Proposições Legislativas (Legislative Propositions System)",
+        "Portal da Transparência (Transparency Portal)"
+      ],
+      "tags": [
+        "Java",
+        "Tomcat",
+        "PostgresSQL",
+        "REST",
+        "JSON",
+        "SQLite",
+        "Python",
+        "TDD",
+        "Unit Test",
+        "Integration Test",
+        "System Test",
+        "TypeScript",
+        "JUnit",
+        "Node",
+        "Testing",
+        "Travis",
+        "React",
+        "Vue",
+        "Express",
+        "Git",
+        "Continuous Integration",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "Fabric",
+        "Material Design",
+        "Material-UI",
+        "Axios",
+        "Docker",
+        "VirtialEnv",
+        "MongoDB",
+        "Firebase",
+        "Scrum",
+        "Agile",
+        "DevOps"
+      ]
+    },
+    {
+      "period": "February, 2007 - July, 2011",
+      "title": "Software Developer",
+      "company": "HSBC GLTb",
+      "location": "Curitiba",
+      "description": "I was part of a big team of analysts and developers who worked on many HSBC projects around the world. We attended meetings with different customers from Canada, China, USA, England, Mexico and India. Our tasks included developing specific parts of large projects. I also was allocated for 8 months to work as on-site coordinator in Vancouver, Canadá to help the HSBC Canada team in many projects.",
+      "responsabilities": [
+        "Attend meetings, gather requirements and create tasks for the team.",
+        "Develop front end code for the projects.",
+        "Manage the tasks and provide feedback to the customers."
+      ],
+      "projects": [
+        "Credit card",
+        "Updating Java servers (Weblogic)",
+        "Many other parts of large projects"
+      ],
+      "tags": [
+        "Java",
+        "JavaScript",
+        "Jsp",
+        "Tomcat",
+        "REST",
+        "JSON",
+        "SQL Server",
+        "Oracle",
+        "Maven",
+        "HTML",
+        "CSS",
+        "Continuous Integration",
+        "DevOps"
+      ]
+    },
+    {
+      "period": "January, 2002 - January, 2007",
+      "title": "Software Developer",
+      "company": "EDS Eletronic Data Systems",
+      "location": "Florianópolis",
+      "description": "I was part of a big team of analysts and developers who worked in many outsourcing projects for EDS.",
+      "responsabilities": [
+        "Attend meetings with other members of the team and discuss and manage solutions for the problems.",
+        "Create and manage the tasks.",
+        "Code the front end code for the large projects and the front and back end code for the medium and small projects."
+      ],
+      "projects": [
+        "The biggest project I worked was the Visanet project which was responsible to manage the transactions of this card.",
+        "I worked in many other projects also"
+      ],
+      "tags": [
+        "Java",
+        "JavaScript",
+        "Jsp",
+        "Tomcat",
+        "REST",
+        "JSON",
+        "SQL Server",
+        "Oracle",
+        "Maven",
+        "HTML",
+        "CSS",
+        "Continuous Integration",
+        "DevOps"
+      ]
+    }
+  ],
+  "courses": [],
+  "other": [
+    "I’m a fan of new technologies, always learning new languages, frameworks, etc. I’m also very fan of developing apps for mobile. I’m autodidact and it’s easy to me learn new things.",
+    "I also contribute for many projects in GitHub and almost all  my personal projects are published there.",
+    "I have many hobbies like cooking, woodworking, running, cycling, traveling, kayaking, playing guitar and having fun with friends."
+  ]
 }
