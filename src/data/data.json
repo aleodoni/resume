@@ -48,6 +48,7 @@
         "Set up the Continuous Integration environment using TravisCI and integrate with the deploy scripts.",
         "Create all deploy scripts for the projects and integrate them with CI servers.",
         "Develop reusable components in Django, for example, the authentication module which was used by all systems to authenticate through LDAP server.",
+        "Develop REST applications using Express and Adonis",
         "Develop the new Electronic Process System using Node and React",
         "Develop reusable components in React.",
         "Develop reusable components in Vue."
@@ -82,6 +83,7 @@
         "React",
         "Vue",
         "Express",
+        "Adonis",
         "Git",
         "Continuous Integration",
         "HTML",
